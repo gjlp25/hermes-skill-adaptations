@@ -1,0 +1,8 @@
+Hermes adaptations of selected Anthropic skills
+
+This repository adapts `theme-factory`, `internal-comms`, and `canvas-design`
+from `anthropics/skills` commit 34040c9c568585f6929bedeaad110ad08f079624.
+
+The adapted text is distributed under Apache-2.0. The repository intentionally
+excludes upstream scripts, PDFs, images, font binaries, and related SIL Open
+Font License assets. No additional font attribution is required.
